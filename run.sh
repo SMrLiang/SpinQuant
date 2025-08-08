@@ -1,0 +1,1 @@
+bash scripts/10_optimize_rotation.sh /data/models/llama_2_7b 4 4 4
